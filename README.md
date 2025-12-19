@@ -5,8 +5,7 @@
 Backend-heavy MERN Stack Developer with **2 years of hands-on experience** building scalable, secure, and production-ready web applications. Strong focus on **Node.js, API design, authentication, database modeling, and system architecture**, with solid frontend support when required.
 
 - 🌍 Based in India  
-- ✉️ Email: 21aniketdhangar13@gmail.com  
-- 💼 Junior Web Developer at Technowiet Softwares  
+- ✉️ Email: 21aniketdhangar13@gmail.com   
 - 🚀 Building backend-heavy systems and AI-assisted platforms  
 - 🧠 Focused on Node.js, MongoDB, security, and clean architecture  
 - 🤝 Open to backend-heavy MERN / Node.js collaborations  
@@ -46,7 +45,8 @@ Backend-heavy MERN Stack Developer with **2 years of hands-on experience** build
 ## 🔗 Socials
 
 - GitHub: https://github.com/AniketDhangar  
-- LinkedIn: https://www.linkedin.com/in/aniket-dhangar-b59603267/  
+- LinkedIn: https://www.linkedin.com/in/aniket-dhangar-b59603267/
+- Portfolio: https://aniketdhangar.vercel.app/
 
 ---
 
